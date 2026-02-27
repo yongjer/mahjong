@@ -1,6 +1,8 @@
 [![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/yongjer/mahjong)
 # 🀄️ Taiwan Mahjong Solver (16-Tile)
 
+[繁體中文 (Traditional Chinese)](./README.zh-TW.md)
+
 A high-performance, standalone desktop application built with **Tauri v2**, **Rust**, and **React**. This tool calculates the optimal discard, Shanten (moves to win), and Ukeire (effective tiles) for Taiwanese 16-tile Mahjong.
 
 ## 🚀 Features
